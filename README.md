@@ -26,7 +26,6 @@ The columns of the tables are given below,
 | active        | INTEGER |
 | deaths        | INTEGER |
 
-You can use your previous code if required.
 
 #### Sample Valid User Credentials
 
@@ -173,7 +172,7 @@ Returns a state based on the state ID
 
 #### Description:
 
-Create a district in the district table, `district_id` is auto-incremented
+Creates a district in the district table,where `district_id` is auto-incremented
 
 #### Request
 
@@ -290,8 +289,4 @@ Returns the statistics of total cases, cured, active, deaths of a specific state
 
 <br/>
 
-Use `npm install` to install the packages.
 
-**Export the express instance using the default export syntax.**
-
-**Use Common JS module syntax.**
